@@ -30,7 +30,7 @@ Busco constantemente melhorar meu código, aprender novas linguagens e colaborar
 
 ### 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sammuel-lucas)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/sammuel-lucas](https://www.linkedin.com/in/sammuel-lucas-759b53267/))  
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sammuel.pimentel08@gmail.com)
 
 ---
