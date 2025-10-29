@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Sammuel Pimentel!</h1>
+<h1 align="center">Olá, eu sou Sammuel Pimentel!</h1>
 
 🎓 **21 anos** | 📍 João Pessoa - PB  
 💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
