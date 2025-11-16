@@ -16,7 +16,7 @@
 
 ---
 
-### 🚀 Sobre mim:
+###  Sobre mim:
 
 Sou curioso por natureza e gosto de entender o que acontece "por trás dos bastidores" de uma aplicação.  
 Atualmente, estou focado em evoluir minhas habilidades no **Back-End**.
@@ -25,7 +25,7 @@ Busco constantemente melhorar meu código, aprender novas linguagens e colaborar
 
 ---
 
-### 📫 Vamos nos conectar?
+###  Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sammuel-lucas-759b53267/) `linkedin.com/in/sammuel-lucas-759b53267`  
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sammuel.pimentel08@gmail.com) `sammuel.pimentel08@gmail.com`
