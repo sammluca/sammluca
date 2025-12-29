@@ -52,5 +52,10 @@ Busco minha primeira oportunidade na área para **aprender, evoluir tecnicamente
 📫 **Vamos conversar?**  
 Sinta-se à vontade para entrar em contato ou explorar meus repositórios 🚀
 
-[![Email](https://img.shields.io/badge/Email-Contato-red?logo=gmail)](mailto:sammuel.pimentel08@gmail.com)
+📧 **sammuel.pimentel08@gmail.com**
+
+[![Gmail](https://img.shields.io/badge/Gmail-Enviar_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sammuel.pimentel08@gmail.com)
+
+
+
 
