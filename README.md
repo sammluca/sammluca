@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 Sou apaixonado por tecnologia e desenvolvimento de software, com grande interesse em entender **como as aplicações funcionam por trás dos bastidores**.  
 Tenho foco em **Back-End**, trabalhando com **Java, Spring Boot e APIs REST**, sempre buscando escrever código limpo, organizado e seguindo boas práticas.
@@ -15,7 +15,7 @@ Tenho foco em **Back-End**, trabalhando com **Java, Spring Boot e APIs REST**, s
 
 ---
 
-## 🧰 Tecnologias & Ferramentas
+##  Tecnologias & Ferramentas
 
 ### Back-End
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -38,7 +38,7 @@ Tenho foco em **Back-End**, trabalhando com **Java, Spring Boot e APIs REST**, s
 
 ---
 
-## 📌 O que estou buscando
+##  O que estou buscando
 
 - Primeira oportunidade como **Desenvolvedor Back-End** ou **Trainee**
 - Ambientes que valorizem **aprendizado, boas práticas e trabalho em equipe**
@@ -46,8 +46,8 @@ Tenho foco em **Back-End**, trabalhando com **Java, Spring Boot e APIs REST**, s
 
 ---
 
-📫 **Vamos conversar?**  
-Sinta-se à vontade para entrar em contato ou explorar meus repositórios 🚀
+ **Vamos conversar?**  
+Sinta-se à vontade para entrar em contato ou explorar meus repositórios 
 
 📧 **sammuel.pimentel08@gmail.com**
 
