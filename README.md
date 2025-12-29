@@ -13,8 +13,6 @@ Sou apaixonado por tecnologia e desenvolvimento de software, com grande interess
 Tenho foco em **Back-End**, trabalhando com **Java, Spring Boot e APIs REST**, sempre buscando escrever código limpo, organizado e seguindo boas práticas.
 
 
-Busco minha primeira oportunidade na área para **aprender, evoluir tecnicamente e contribuir de forma colaborativa em equipes de desenvolvimento**.
-
 ---
 
 ## 🧰 Tecnologias & Ferramentas
